@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Latihan
 {
-    public class Pogram
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -13,7 +13,7 @@ namespace Latihan
             Console.WriteLine("1. Printer Epson ");
             Console.WriteLine("2. Printer Canon ");
             Console.WriteLine("3. Printer LaserJet ");
-            Console.Write("Pilih Nomor Printer : [1...3]");
+            Console.Write("Pilih Nomor Printer [1...3] : ");
             int num = int.Parse(Console.ReadLine());
 
             switch (num)

@@ -10,7 +10,7 @@ namespace Latihan
         public string nama { get; set; }
         public virtual void showPrint()
         {
-            Console.WriteLine("Printer display dimensions : ...");
+            Console.WriteLine("\nPrinter display dimensions : ...");
             Console.WriteLine("All Printer Printing...");
         }
     }
@@ -19,7 +19,7 @@ namespace Latihan
     {
         public override void showPrint()
         {
-            Console.WriteLine("Epson display dimensions : 10*11");
+            Console.WriteLine("\nEpson display dimensions : 10*11");
             Console.WriteLine("Epson Printer Printing...");
         }
 
@@ -28,7 +28,7 @@ namespace Latihan
     {
         public override void showPrint()
         {
-            Console.WriteLine("Canon display dimensions : 9.5*11");
+            Console.WriteLine("\nCanon display dimensions : 9.5*11");
             Console.WriteLine("Canon Printer Printing...");
         }
 
@@ -37,7 +37,7 @@ namespace Latihan
     {
         public override void showPrint()
         {
-            Console.WriteLine("LaserJet display dimensions : 12*12");
+            Console.WriteLine("\nLaserJet display dimensions : 12*12");
             Console.WriteLine("LaserJet Printer Printing...");
         }
 
