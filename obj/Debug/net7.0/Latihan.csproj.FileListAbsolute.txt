@@ -1,0 +1,15 @@
+D:\Kuliah\SMS2\Pemograman\Pertemuan9\Latihan\bin\Debug\net7.0\Latihan.exe
+D:\Kuliah\SMS2\Pemograman\Pertemuan9\Latihan\bin\Debug\net7.0\Latihan.deps.json
+D:\Kuliah\SMS2\Pemograman\Pertemuan9\Latihan\bin\Debug\net7.0\Latihan.runtimeconfig.json
+D:\Kuliah\SMS2\Pemograman\Pertemuan9\Latihan\bin\Debug\net7.0\Latihan.dll
+D:\Kuliah\SMS2\Pemograman\Pertemuan9\Latihan\bin\Debug\net7.0\Latihan.pdb
+D:\Kuliah\SMS2\Pemograman\Pertemuan9\Latihan\obj\Debug\net7.0\Latihan.csproj.AssemblyReference.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan9\Latihan\obj\Debug\net7.0\Latihan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\SMS2\Pemograman\Pertemuan9\Latihan\obj\Debug\net7.0\Latihan.AssemblyInfoInputs.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan9\Latihan\obj\Debug\net7.0\Latihan.AssemblyInfo.cs
+D:\Kuliah\SMS2\Pemograman\Pertemuan9\Latihan\obj\Debug\net7.0\Latihan.csproj.CoreCompileInputs.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan9\Latihan\obj\Debug\net7.0\Latihan.dll
+D:\Kuliah\SMS2\Pemograman\Pertemuan9\Latihan\obj\Debug\net7.0\refint\Latihan.dll
+D:\Kuliah\SMS2\Pemograman\Pertemuan9\Latihan\obj\Debug\net7.0\Latihan.pdb
+D:\Kuliah\SMS2\Pemograman\Pertemuan9\Latihan\obj\Debug\net7.0\Latihan.genruntimeconfig.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan9\Latihan\obj\Debug\net7.0\ref\Latihan.dll
